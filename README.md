@@ -2,7 +2,8 @@
 
 # ✨Sobre mi 👩🏻‍💻
 <p align="center">
-<img src="./Img/dev.png" alt="dev" width="300" align="rigth"/>
+<img src="./Img/dev.png" alt="dev" width="300" align="right"/>
+
 <p align="left">
 
 Soy **desarrolladora Front-end** egresada del Bootcamp _soyHenry_, del cuál adquiri conocimientos tanto en Back-end como Front-end.
