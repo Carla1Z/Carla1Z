@@ -10,3 +10,4 @@ Tengo conocimiento y experiencia sobre **PostgreSQL**,**Sequelize**, **Node Js**
 </p>
 <p align="rigth">
 <img src="./Img/dev.png" alt="dev" width="300"/>
+</p>
