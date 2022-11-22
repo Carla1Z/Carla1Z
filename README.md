@@ -9,4 +9,4 @@ Disfruto estar en constante aprendizaje y poner en practica los conocimientos. M
 Tengo conocimiento y experiencia sobre **PostgreSQL**,**Sequelize**, **Node Js**, **Express**,**React Js**, **Redux**
 </p>
 <p align="rigth">
-<img src="./Img/dev.png" alt="dev"/>
+<img src="./Img/dev.png" alt="dev" width="300"/>
