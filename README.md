@@ -16,9 +16,12 @@ Tengo conocimiento y experiencia sobre **PostgreSQL**,**Sequelize**, **Node Js**
 <hr>
 
 ### Puedes ponerte en contacto conmigo desde aquí ☎
- 
+ <p align="left">
  <img src="./Img/mail.gif" width="50"/>
  <a href="mailto:carla_sabrina_zarate@hotmail.com" target="_blank">carla_sabrina_zarate@hotmail.com</a>
+ </>
  
+ <p align="left">
   <img src="./Img/linkedin.png" width="50" />
- <a href="https://www.linkedin.com/in/carla-sabrina-zarate/" target="_blank">Carla Sabrina Zarate</a>
+  <a href="https://www.linkedin.com/in/carla-sabrina-zarate/" target="_blank">Carla Sabrina Zarate</a>
+ </p>
