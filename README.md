@@ -2,7 +2,7 @@
 
 # ✨Sobre mi 👩🏻‍💻
 <p align="center">
-<img src="./Img/dev.png" alt="dev" width="300" align="right"/>
+<img src="./Img/dev.png" alt="dev" width="50%" align="right"/>
 
 <p align="left">
 
