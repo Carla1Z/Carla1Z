@@ -2,14 +2,13 @@
 
 # ✨Sobre mi 👩🏻‍💻
 <p align="center">
-<img src="./Img/dev.png" alt="dev" width="50%" align="right"/>
+<img src="./Img/dev.png" alt="dev" width="40%" align="right"/>
 
 <p align="left">
 
-Soy **desarrolladora Front-end** egresada del Bootcamp _soyHenry_, del cuál adquiri conocimientos tanto en Back-end como Front-end.
-Disfruto estar en constante aprendizaje y poner en practica los conocimientos. Me gusta que mis proyectos tengan una buena experiencia de usuarios y sean faciles de usar.
+Soy **desarrolladora Full-Stack** con experiencia tanto en el **Front-end** como en el **Back-end**. Me apasiona aprender continuamente y enfrentar nuevos desafíos, y disfruto especialmente crear proyectos que brinden una excelente **experiencia de usuario**. Tengo sólidos conocimientos en tecnologías como **C# con .NET**, **PostgreSQL**, **Sequelize**, **Node.js**, **Express**, **React.js** y **Redux**, y siempre estoy abierta a explorar nuevas herramientas y lenguajes. Soy una persona proactiva, con habilidades de **resolución de problemas** y **trabajo en equipo**, y me enorgullece mantenerme al día con las últimas tendencias y mejores prácticas en el mundo del desarrollo web.
 
-Tengo conocimiento y experiencia sobre **PostgreSQL**,**Sequelize**, **Node Js**, **Express**,**React Js**, **Redux**
+ 
 </p>
 </p>
 
