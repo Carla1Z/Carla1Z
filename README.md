@@ -5,7 +5,7 @@
 <!-- <img src="./Img/dev.png" alt="dev" width="40%" align="right"/> -->
 <p align="left">
 
-Soy **desarrolladora Full-Stack** con experiencia tanto en el **Front-end** como en el **Back-end**. Me apasiona aprender continuamente y enfrentar nuevos desafíos, y disfruto especialmente crear proyectos que brinden una excelente **experiencia de usuario**. Tengo sólidos conocimientos en tecnologías como **C# con .NET**, **PostgreSQL**, **Sequelize**, **Node.js**, **Express**, **React.js** y **Redux**, y siempre estoy abierta a explorar nuevas herramientas y lenguajes. Soy una persona proactiva, con habilidades de **resolución de problemas** y **trabajo en equipo**, y me enorgullece mantenerme al día con las últimas tendencias y mejores prácticas en el mundo del desarrollo web.
+ Soy una apasionada **desarrolladora Full Stack** con experiencia en **Front-end** y **Back-end**. Disfruto enfrentando desafíos y creando proyectos que ofrezcan una **experiencia de usuario excepcional**. Mi conjunto de habilidades abarca **C#**,**Xamarin**, **ASP**, **Visual Basic**, **.NET Framework**, **.NET Core**, **React.js**, **Redux**, **Node.js**, **SQL** y **Express**. Siempre estoy abierta a explorar nuevas herramientas y lenguajes. Soy proactiva, con fuertes habilidades en resolución de problemas y trabajo en equipo. Me enorgullece mantenerme actualizada con las últimas tendencias y mejores prácticas en el desarrollo web.
 
  
 </p>
