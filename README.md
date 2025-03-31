@@ -16,7 +16,7 @@
 ### Puedes ponerte en contacto conmigo desde aquí ☎
  <p align="left">
  <img src="./Img/mail.png" width="50"/>
- <a href="mailto:carla_sabrina_zarate@hotmail.com" target="_blank">carla_sabrina_zarate@hotmail.com</a>
+ <a href="mailto:zarate.carla@outlook.com" target="_blank">zarate.carla@outlook.com</a>
  </>
  
  <p align="left">
